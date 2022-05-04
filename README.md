@@ -1,6 +1,6 @@
 ### Olá, Bem-vindo(a) ao meu gitHub 📚
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/danielrcunha/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **danielrcunha/danielrcunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
